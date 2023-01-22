@@ -15,7 +15,10 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          LEARN APP WITH ME
+          <h1>LEARN APP REACT</h1>
+        </a>
+        <a href='https://github.com/panupatspyksw/GithubTest'>
+          <h1>Checkout My github</h1>
         </a>
       </header>
     </div>
